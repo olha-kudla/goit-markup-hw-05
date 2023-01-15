@@ -252,7 +252,7 @@ body{
 }
 /*анімація модальногов ікна*/
 .backdrop.is-hidden .modal{
-transform: translate(-50%, -50%) scale(2);
+transform: translate(-50%, -50%) scale(0.2);
 transition-duration: 250ms;
 transition-timing-function: var(--accent-color);
 
